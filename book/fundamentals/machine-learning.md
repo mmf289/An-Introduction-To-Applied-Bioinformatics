@@ -20,7 +20,7 @@ Let's jump in...
 
 ## Naive Bayes classifiers <link src="H8vYPu"/>
 
-The first classifier we'll explore is the popular and relatively simple Naive Bayes classifier. This classifier uses Bayes Theorem to determine the most likely label for an unknown input based on a probabilistic model it has constructed from training data. (_The preceding text needs work._) The model that is constructed is based on user-defined features of the sequences. The most commonly used features for sequence classification tasks such as this is overlapping [kmers](alias://C7hMX5).
+The first classifier we'll explore is the popular and relatively simple Naive Bayes classifier. This classifier uses Bayes' Theorem to determine the most likely label for an unknown input based on a probabilistic model it has constructed from training data. (_The preceding text needs work._) The model that is constructed is based on user-defined features of the sequences. The most commonly used features for sequence classification tasks such as this is overlapping [kmers](alias://C7hMX5).
 
 We'll begin by importing some libraries that we'll use in this chapter, and then [preparing our reference database and query sequences as we did previously](alias://gAKBxE).
 

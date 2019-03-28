@@ -201,7 +201,7 @@ While simulations are extremely powerful for comparing algorithms, they can also
 
 When using simulations, it's important to understand what assumptions the simulation makes so you know what it can tell you about and what it can't tell you about. You'll want to consider that when determining how confident you are in the results of an evaluation based on simulation.  What are some other assumptions that are being made by the evolutionary simulation presented here? There are many, so take a minute to list a few.
 
-On the opposite end of the spectrum from simulations for algorithm comparison is comparisons based on real data. The trade-off is that, while there are no assumptions being made in real data with respect to the composition of the sequences, with real data we don't know what the right answer (in our case, the correct phylogeny) is, so it's harder to determine which algorithms are doing better or worse. The take-away message here is that neither approach is perfect, and often researchers will use a combination of simulated and real data to evaluate algorithms.
+On the opposite end of the spectrum from simulations for algorithm comparison are comparisons based on real data. The trade-off is that, while there are no assumptions being made in real data with respect to the composition of the sequences, with real data we don't know what the right answer (in our case, the correct phylogeny) is, so it's harder to determine which algorithms are doing better or worse. The take-away message here is that neither approach is perfect, and often researchers will use a combination of simulated and real data to evaluate algorithms.
 
 ## Visualizing trees with ete3 <link src="WWRxKR"/>
 
